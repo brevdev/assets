@@ -1,4 +1,4 @@
 *.ai
 *.eps
 *.psd
-
+.DS_Store
